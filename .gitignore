@@ -1,0 +1,6 @@
+#
+.*
+!.gitignore
+!results/.dummy
+*.mat
+
